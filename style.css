@@ -18,6 +18,11 @@ hr {
     margin: 2rem 0rem;
 }
 
+.margin-md {
+    margin: 2rem;
+}
+
+
 /* container */
 .container {
     padding: 0rem 2rem;
@@ -86,6 +91,7 @@ hr {
 
 .hero {
     padding: 2rem;
+    padding-top: 5rem;
 }
 
 .hero .hero-img {
@@ -122,6 +128,11 @@ hr {
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+}
+
+.footer .footer-header {
+    font-weight: bold;
+    font-size: large;
 }
 
 .footer .link {
