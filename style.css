@@ -98,6 +98,7 @@ hr {
     max-width: 350px;
     display: block;
     margin: auto;
+    border-radius: 15rem;
 }
 
 .hero .hero-heading {
