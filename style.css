@@ -92,6 +92,7 @@ hr {
 .hero {
     padding: 2rem;
     padding-top: 5rem;
+    
 }
 
 .hero .hero-img {
@@ -99,6 +100,7 @@ hr {
     display: block;
     margin: auto;
     border-radius: 15rem;
+    border: 2px solid var(--primary-color);
 }
 
 .hero .hero-heading {
