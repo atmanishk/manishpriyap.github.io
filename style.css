@@ -10,7 +10,8 @@
 body {
     font-family: 'Ubuntu',
         sans-serif;
-    margin: 0px
+    margin: 0px;
+    text-align: center;
 
 }
 
@@ -41,13 +42,13 @@ hr {
 
 .link-primary {
     background-color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     color: white;
 }
 
 .link-secondary {
     color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     border: 1px solid var(--primary-color);
 }
 
@@ -131,6 +132,7 @@ hr {
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+    margin-top: 2rem;
 }
 
 .footer .footer-header {
